@@ -16,6 +16,6 @@
 - restify：使用restify模块实现RestFul Server（没有数据库）<br>
 - restify_mongoose：restify和mongoose两个模块实现Get和Post方法<br>
 - restify_mongoose_restful：restify和mongoose两个模块实现了Restful API<br>
-
+- formidable：上传文件的模版<br>
 
 ```
